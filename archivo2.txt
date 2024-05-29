@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-Una nueva noche fría
-Canción de Callejeros
-
-Voces, solo voces como ecos
-Como atroces chistes sin gracia
-Hace mucho tiempo escucho voces
-Y ni una palabra
-=======
 9 de julio
 Canción de Callejeros
 
@@ -15,4 +6,3 @@ Otra escuela entre rejas
 Otra flor que no está
 Otro delincuente que miente, roba
 Gobierna y se va
->>>>>>> iss51
