@@ -1,0 +1,8 @@
+.tarea.completed {
+    background-color: rgb(0, 255, 0);
+    
+}
+
+.tarea.not-completed {
+    background-color: rgb(255, 82, 82);
+}
